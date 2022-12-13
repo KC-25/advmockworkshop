@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+.banner{
+    background-color:pink;
+}
+body, html {
+    height: 100%;
+}
