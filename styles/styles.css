@@ -1,9 +1,45 @@
 body{
     background-color: aqua;
 }
+
 .banner{
     background-color:pink;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: x-large;
+
 }
+
 body, html {
     height: 100%;
+}
+
+.hero-image {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1tJ6CbFmSWZg5AsJOu3mgnDYdhl75VhA2PjUc2eAVV5s5DR0WuSpOcBPodG7jFQNIAWc:https://i0.hippopx.com/photos/56/115/606/glow-shiny-colors-bokeh-preview.jpg&usqp=CAU");
+ margin-left: 20%;
+ margin-right: 25%;
+    height: 500px;
+ width: 895px;
+}
+  
+  .hero-text {
+    text-align: center;
+    color: black;
+    font-size: xxx-large;
+  }
+
+  nav ul li{
+    display: inline;
+  }
+
+  #logo{
+    margin-top: 1%;
+    margin-left: 1%;
+    display: inline;
+  }
+
+#One{
+    margin: 10%;
 }
