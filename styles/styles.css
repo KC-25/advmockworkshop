@@ -22,6 +22,8 @@ body, html {
  margin-right: 25%;
     height: 500px;
  width: 895px;
+ margin-top: 5%;
+ margin-bottom: 5%;
 }
   
   .hero-text {
@@ -30,16 +32,71 @@ body, html {
     font-size: xxx-large;
   }
 
-  nav ul li{
+nav ul li{
     display: inline;
+    float: right;
+    margin-right: 13%;
+    margin-top: 1%;
   }
 
   #logo{
-    margin-top: 1%;
-    margin-left: 1%;
     display: inline;
+    margin-top: 5%;
+    width: 40%;
+    height: 150px;
+    margin-left: 5%;
+    margin-bottom: 5%;
   }
 
-#One{
-    margin: 10%;
+section{
+  border: 2px solid black;
+}
+
+dl dt{
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+dl u {
+  margin-bottom: 1%;
+}
+
+dd {
+  margin-bottom: 1.5%;
+}
+
+th{
+
+  border: solid 1px black;
+}
+td{
+  border: solid 1px black;
+}
+
+table{
+font-size: xx-large;
+  display: inline;
+  margin-left: 70%;
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+
+#footnav{
+margin-right: 35%;
+}
+
+h2 ins{
+  margin-left: 70%;
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+}
+
+dl{
+  margin-left: 10%;
+  margin-top: 1%;
+}
+
+#IMG{
+  display: inline-block;
 }
